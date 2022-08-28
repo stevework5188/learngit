@@ -2,3 +2,4 @@
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
+User2 add this line.
