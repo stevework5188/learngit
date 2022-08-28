@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 User2 add this line.
 User2 add 2nd line.
+User1 add 1st line.
