@@ -8,6 +8,7 @@ User2 add 6th line.
 User2 add 8th line.
 User2 add 10th line.
 User2 add 12th line.
+User2 add 14th line.
 User2 add 3rd line.
 User1 add 1st line.
 User2 add 4th line.
@@ -26,5 +27,6 @@ User2 add the 4th between line.
 User1 add the  5th between line
 User2 add the 5th between line.
 User1 add the  6th  between line.
+User2 add the 6th between line.
 User1 add 11th line.
 User1 add 13th line.
