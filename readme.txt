@@ -8,4 +8,5 @@ User2 add 3rd line.
 User1 add 1st line.
 User2 add 4th line.
 User1 add this between line.
+User2 add this between line.
 User2 add 5th line.
