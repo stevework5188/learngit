@@ -5,6 +5,7 @@ Git tracks changes of files.
 User2 add this line.
 User2 add 2nd line.
 User2 add 6th line.
+User2 add 8th line.
 User2 add 3rd line.
 User1 add 1st line.
 User2 add 4th line.
