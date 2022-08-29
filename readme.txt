@@ -16,4 +16,5 @@ User2 add 5th line.
 User1 add 7th line.
 User1 add 9th line.
 User1 add this line between 9th and 11th.
+User2 add this line between 9th and 11th.
 User1 add 11th line.
