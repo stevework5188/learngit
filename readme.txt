@@ -50,11 +50,13 @@ User1 add 20th line.
 User1 add 22th line.
 User1 add 24th line.
 User2 add 29th line.
+User2 add 31th line.
 User1 add 25th line.
 User1 add this line between 25th line and 26th line.
 User2 add this line between 25th line and 26th line.
 User1 add 26th line.
 User1 add the line between 26th and 28th.
+User2 add the line between 26th and 28th.
 User1 add 28th line.
 User1 add the line between 28th and 30th.
 User2 add the line between 28th line and 30th line.
