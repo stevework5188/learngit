@@ -32,6 +32,7 @@ User2 add the 5th between line.
 User1 add the  6th  between line.
 User2 add the 6th between line.
 User1 add 11th line.
+User1 add this line between 11th line and 13th line.
 User2 add this line between 11th line and 13th line.
 User1 add 13th line.
 User1 add this line between 13th line and 15th line.
@@ -42,3 +43,4 @@ User1 add 18th line.
 User 1 add this line between 18th line and 20th line.
 User2 add this line between 18th line and 20th line.
 User1 add 20th line.
+User1 add 22th line.
