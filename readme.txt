@@ -68,5 +68,6 @@ User1 add 32th line.
 User2 add 36th line.
 User1 add 34th line.
 User1 add 35th line.
+User1 add the line between 35th and 37th.
 User2 add the line between 35th and 37th.
 User1 add 37th line.
